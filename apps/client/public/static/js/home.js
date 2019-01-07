@@ -6,7 +6,7 @@ function getEndpointBaseUrl () {
 
   return isDev
     ? 'http://localhost:8080'
-    : 'https://meatup-ijal-api.now.sh';
+    : 'https://ayub-dev-api.now.sh';
 }
 
 function getEvents () {
